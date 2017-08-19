@@ -1,2 +1,2 @@
 # R-Data
-R Data Analysis notebooks for fun :)
+R Data Science notebooks for fun :)
