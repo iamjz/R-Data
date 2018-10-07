@@ -1,0 +1,1001 @@
+id  ; Group ;grade ;verification_status; loan_amnt
+1   ;     A ;    B ;           Verified;      8000
+2   ;     A ;    B ;       Not Verified;      1200
+3   ;     A ;    C ;       Not Verified;     15000
+4   ;     A ;    B ;           Verified;      9000
+5   ;     A ;    B ;    Source Verified;     16000
+6   ;     A ;    C ;    Source Verified;     15600
+7   ;     A ;    D ;       Not Verified;      2400
+8   ;     A ;    C ;           Verified;     23600
+9   ;     A ;    C ;       Not Verified;      3600
+10  ;     A ;    E ;    Source Verified;     20750
+11  ;     A ;    B ;    Source Verified;     11000
+12  ;     A ;    C ;    Source Verified;      7200
+13  ;     A ;    C ;    Source Verified;      7000
+14  ;     A ;    D ;           Verified;     21000
+15  ;     A ;    B ;    Source Verified;      5000
+16  ;     A ;    B ;       Not Verified;      8000
+17  ;     A ;    C ;           Verified;     35000
+18  ;     A ;    C ;           Verified;      7500
+19  ;     A ;    F ;           Verified;     32000
+20  ;     A ;    B ;           Verified;     15000
+21  ;     A ;    C ;    Source Verified;     14000
+22  ;     A ;    B ;       Not Verified;      6500
+23  ;     A ;    E ;    Source Verified;     12875
+24  ;     A ;    B ;           Verified;     15000
+25  ;     A ;    B ;    Source Verified;      6000
+26  ;     A ;    C ;    Source Verified;     11000
+27  ;     A ;    C ;    Source Verified;      5000
+28  ;     A ;    C ;    Source Verified;     24000
+29  ;     A ;    C ;    Source Verified;     18000
+30  ;     A ;    C ;       Not Verified;     12000
+31  ;     A ;    C ;           Verified;     12000
+32  ;     A ;    B ;           Verified;      9600
+33  ;     A ;    C ;       Not Verified;     10000
+34  ;     A ;    B ;           Verified;     15000
+35  ;     A ;    B ;       Not Verified;      6000
+36  ;     A ;    A ;       Not Verified;     10975
+37  ;     A ;    E ;           Verified;     16900
+38  ;     A ;    B ;       Not Verified;      5000
+39  ;     A ;    C ;       Not Verified;     14000
+40  ;     A ;    B ;    Source Verified;      6500
+41  ;     A ;    A ;    Source Verified;      7000
+42  ;     A ;    C ;    Source Verified;      9250
+43  ;     A ;    D ;    Source Verified;      7200
+44  ;     A ;    B ;       Not Verified;     18550
+45  ;     A ;    A ;    Source Verified;     13000
+46  ;     A ;    B ;       Not Verified;      7600
+47  ;     A ;    B ;    Source Verified;     10975
+48  ;     A ;    A ;    Source Verified;      6500
+49  ;     A ;    B ;    Source Verified;      6000
+50  ;     A ;    B ;       Not Verified;      8400
+51  ;     A ;    D ;    Source Verified;     25000
+52  ;     A ;    B ;           Verified;     35000
+53  ;     A ;    A ;           Verified;      3000
+54  ;     A ;    C ;           Verified;     15000
+55  ;     A ;    B ;    Source Verified;     24000
+56  ;     A ;    B ;    Source Verified;     11000
+57  ;     A ;    B ;           Verified;     20000
+58  ;     A ;    E ;       Not Verified;      8875
+59  ;     A ;    B ;    Source Verified;     12000
+60  ;     A ;    B ;    Source Verified;      8000
+61  ;     A ;    C ;           Verified;      1600
+62  ;     A ;    B ;           Verified;     17000
+63  ;     A ;    C ;       Not Verified;     10975
+64  ;     A ;    C ;           Verified;     10300
+65  ;     A ;    B ;    Source Verified;      8875
+66  ;     A ;    A ;           Verified;      8800
+67  ;     A ;    D ;    Source Verified;     12000
+68  ;     A ;    D ;           Verified;     10850
+69  ;     A ;    A ;    Source Verified;      7000
+70  ;     A ;    E ;    Source Verified;     13575
+71  ;     A ;    D ;           Verified;     26375
+72  ;     A ;    D ;    Source Verified;     21000
+73  ;     A ;    D ;       Not Verified;      3200
+74  ;     A ;    D ;    Source Verified;     10000
+75  ;     A ;    E ;       Not Verified;     13000
+76  ;     A ;    B ;       Not Verified;      3600
+77  ;     A ;    E ;           Verified;     12000
+78  ;     A ;    B ;       Not Verified;      6100
+79  ;     A ;    A ;       Not Verified;     10000
+80  ;     A ;    B ;    Source Verified;     12000
+81  ;     A ;    B ;    Source Verified;     28000
+82  ;     A ;    E ;    Source Verified;     11500
+83  ;     A ;    B ;           Verified;      8500
+84  ;     A ;    E ;    Source Verified;     22000
+85  ;     A ;    A ;           Verified;     20000
+86  ;     A ;    C ;    Source Verified;      6175
+87  ;     A ;    A ;       Not Verified;     10000
+88  ;     A ;    A ;           Verified;      8000
+89  ;     A ;    D ;    Source Verified;     33500
+90  ;     A ;    B ;       Not Verified;      9500
+91  ;     A ;    F ;           Verified;     20000
+92  ;     A ;    A ;    Source Verified;     28000
+93  ;     A ;    C ;       Not Verified;      5000
+94  ;     A ;    E ;           Verified;     15000
+95  ;     A ;    C ;    Source Verified;     15600
+96  ;     A ;    B ;           Verified;     21100
+97  ;     A ;    C ;    Source Verified;     16000
+98  ;     A ;    C ;           Verified;      9000
+99  ;     A ;    B ;       Not Verified;     10000
+100 ;     A ;    A ;           Verified;     30000
+101 ;     A ;    B ;    Source Verified;     23000
+102 ;     A ;    C ;           Verified;     21000
+103 ;     A ;    C ;    Source Verified;      7100
+104 ;     A ;    C ;    Source Verified;     10000
+105 ;     A ;    C ;    Source Verified;      7850
+106 ;     A ;    E ;    Source Verified;     17600
+107 ;     A ;    E ;           Verified;     24000
+108 ;     A ;    C ;    Source Verified;      6000
+109 ;     A ;    C ;           Verified;     16000
+110 ;     A ;    C ;           Verified;     35000
+111 ;     A ;    A ;    Source Verified;      9600
+112 ;     A ;    C ;       Not Verified;      4000
+113 ;     A ;    A ;           Verified;     12000
+114 ;     A ;    D ;    Source Verified;     20625
+115 ;     A ;    A ;       Not Verified;     12600
+116 ;     A ;    D ;    Source Verified;     12075
+117 ;     A ;    D ;           Verified;     10800
+118 ;     A ;    B ;           Verified;     25000
+119 ;     A ;    B ;    Source Verified;     12000
+120 ;     A ;    A ;           Verified;     25000
+121 ;     A ;    B ;    Source Verified;     23375
+122 ;     A ;    C ;    Source Verified;     10000
+123 ;     A ;    A ;    Source Verified;     18250
+124 ;     A ;    D ;       Not Verified;      7000
+125 ;     A ;    D ;    Source Verified;      4150
+126 ;     A ;    B ;           Verified;     12000
+127 ;     A ;    A ;       Not Verified;      5000
+128 ;     A ;    C ;           Verified;     20000
+129 ;     A ;    B ;           Verified;     11200
+130 ;     A ;    C ;    Source Verified;     14700
+131 ;     A ;    C ;    Source Verified;     12000
+132 ;     A ;    B ;    Source Verified;     12000
+133 ;     A ;    C ;    Source Verified;     11450
+134 ;     A ;    C ;       Not Verified;     13625
+135 ;     A ;    B ;    Source Verified;     23000
+136 ;     A ;    A ;       Not Verified;      4250
+137 ;     A ;    B ;           Verified;     22750
+138 ;     A ;    D ;       Not Verified;     12600
+139 ;     A ;    A ;    Source Verified;     28000
+140 ;     A ;    D ;    Source Verified;     20775
+141 ;     A ;    E ;    Source Verified;     15000
+142 ;     A ;    A ;           Verified;      6000
+143 ;     A ;    D ;    Source Verified;     20000
+144 ;     A ;    C ;    Source Verified;     35000
+145 ;     A ;    D ;       Not Verified;      8000
+146 ;     A ;    C ;       Not Verified;      4800
+147 ;     A ;    C ;    Source Verified;      7000
+148 ;     A ;    E ;           Verified;      8875
+149 ;     A ;    B ;    Source Verified;      6000
+150 ;     A ;    C ;    Source Verified;     10000
+151 ;     A ;    E ;    Source Verified;     14700
+152 ;     A ;    A ;           Verified;     24000
+153 ;     A ;    C ;           Verified;     24000
+154 ;     A ;    B ;       Not Verified;     14000
+155 ;     A ;    B ;    Source Verified;     16150
+156 ;     A ;    E ;           Verified;     27200
+157 ;     A ;    E ;    Source Verified;     17500
+158 ;     A ;    C ;       Not Verified;     15000
+159 ;     A ;    C ;           Verified;     23325
+160 ;     A ;    C ;           Verified;     30000
+161 ;     A ;    C ;       Not Verified;     16000
+162 ;     A ;    A ;    Source Verified;      3000
+163 ;     A ;    D ;       Not Verified;      9000
+164 ;     A ;    C ;           Verified;      7225
+165 ;     A ;    D ;           Verified;     35000
+166 ;     A ;    A ;       Not Verified;     15600
+167 ;     A ;    A ;           Verified;     20000
+168 ;     A ;    A ;       Not Verified;      8000
+169 ;     A ;    C ;       Not Verified;     10000
+170 ;     A ;    D ;       Not Verified;      5000
+171 ;     A ;    B ;    Source Verified;     16000
+172 ;     A ;    A ;           Verified;      5200
+173 ;     A ;    D ;           Verified;     21000
+174 ;     A ;    B ;           Verified;     25000
+175 ;     A ;    D ;    Source Verified;     18000
+176 ;     A ;    C ;       Not Verified;      3550
+177 ;     A ;    C ;           Verified;      5600
+178 ;     A ;    C ;       Not Verified;     10000
+179 ;     A ;    B ;       Not Verified;     12000
+180 ;     A ;    C ;    Source Verified;     12000
+181 ;     A ;    B ;       Not Verified;     15000
+182 ;     A ;    C ;           Verified;      7200
+183 ;     A ;    B ;           Verified;     35000
+184 ;     A ;    D ;    Source Verified;     10000
+185 ;     A ;    B ;    Source Verified;     25000
+186 ;     A ;    D ;           Verified;      9850
+187 ;     A ;    A ;    Source Verified;      7400
+188 ;     A ;    B ;           Verified;     17475
+189 ;     A ;    E ;           Verified;      2500
+190 ;     A ;    C ;           Verified;     30000
+191 ;     A ;    C ;    Source Verified;      8000
+192 ;     A ;    A ;           Verified;     20000
+193 ;     A ;    A ;       Not Verified;      7000
+194 ;     A ;    D ;           Verified;     23500
+195 ;     A ;    B ;       Not Verified;     19500
+196 ;     A ;    B ;       Not Verified;     13000
+197 ;     A ;    C ;       Not Verified;     18750
+198 ;     A ;    B ;       Not Verified;      8000
+199 ;     A ;    A ;       Not Verified;     10000
+200 ;     A ;    C ;           Verified;     30000
+201 ;     A ;    C ;           Verified;      8000
+202 ;     A ;    C ;    Source Verified;     21000
+203 ;     A ;    C ;       Not Verified;     12000
+204 ;     A ;    C ;    Source Verified;     31000
+205 ;     A ;    C ;    Source Verified;     21075
+206 ;     A ;    A ;       Not Verified;     11000
+207 ;     A ;    D ;       Not Verified;     15000
+208 ;     A ;    D ;    Source Verified;      3000
+209 ;     A ;    B ;           Verified;     22200
+210 ;     A ;    A ;           Verified;     16000
+211 ;     A ;    B ;    Source Verified;     10000
+212 ;     A ;    B ;       Not Verified;     19200
+213 ;     A ;    C ;       Not Verified;      7200
+214 ;     A ;    C ;       Not Verified;     21000
+215 ;     A ;    B ;       Not Verified;     20000
+216 ;     A ;    D ;       Not Verified;      6975
+217 ;     A ;    D ;    Source Verified;     24000
+218 ;     A ;    E ;           Verified;     15250
+219 ;     A ;    D ;    Source Verified;     31000
+220 ;     A ;    A ;    Source Verified;      5000
+221 ;     A ;    D ;       Not Verified;      6000
+222 ;     A ;    B ;       Not Verified;     11950
+223 ;     A ;    A ;       Not Verified;      9600
+224 ;     A ;    A ;    Source Verified;      9000
+225 ;     A ;    B ;    Source Verified;     20000
+226 ;     A ;    B ;           Verified;     20000
+227 ;     A ;    D ;    Source Verified;     18250
+228 ;     A ;    B ;    Source Verified;     27000
+229 ;     A ;    E ;           Verified;     32000
+230 ;     A ;    D ;           Verified;      4500
+231 ;     A ;    C ;    Source Verified;      4000
+232 ;     A ;    B ;    Source Verified;      9000
+233 ;     A ;    C ;           Verified;     10000
+234 ;     A ;    D ;    Source Verified;     20000
+235 ;     A ;    C ;       Not Verified;     12000
+236 ;     A ;    C ;           Verified;     13500
+237 ;     A ;    B ;           Verified;     24000
+238 ;     A ;    B ;           Verified;      8000
+239 ;     A ;    D ;           Verified;     16000
+240 ;     A ;    D ;    Source Verified;      9950
+241 ;     A ;    C ;    Source Verified;     17075
+242 ;     A ;    B ;       Not Verified;     24000
+243 ;     A ;    C ;    Source Verified;      8400
+244 ;     A ;    C ;       Not Verified;      2000
+245 ;     A ;    B ;       Not Verified;     16675
+246 ;     A ;    B ;           Verified;     28200
+247 ;     A ;    B ;    Source Verified;     11500
+248 ;     A ;    B ;           Verified;      6500
+249 ;     A ;    E ;           Verified;      4950
+250 ;     A ;    C ;       Not Verified;     16000
+251 ;     A ;    E ;           Verified;     22000
+252 ;     A ;    C ;       Not Verified;      4000
+253 ;     A ;    B ;    Source Verified;     17000
+254 ;     A ;    B ;           Verified;     12000
+255 ;     A ;    C ;           Verified;     12250
+256 ;     A ;    A ;    Source Verified;     20000
+257 ;     A ;    E ;    Source Verified;     18900
+258 ;     A ;    B ;    Source Verified;      5000
+259 ;     A ;    B ;       Not Verified;     14950
+260 ;     A ;    B ;    Source Verified;     18975
+261 ;     A ;    A ;    Source Verified;      9000
+262 ;     A ;    C ;    Source Verified;     12000
+263 ;     A ;    A ;           Verified;     17600
+264 ;     A ;    C ;    Source Verified;     35000
+265 ;     A ;    B ;           Verified;     15000
+266 ;     A ;    F ;    Source Verified;     25000
+267 ;     A ;    A ;       Not Verified;     15600
+268 ;     A ;    D ;    Source Verified;     35000
+269 ;     A ;    C ;           Verified;     35000
+270 ;     A ;    C ;       Not Verified;      7950
+271 ;     A ;    B ;       Not Verified;      1000
+272 ;     A ;    A ;    Source Verified;     24000
+273 ;     A ;    B ;       Not Verified;     15000
+274 ;     A ;    B ;    Source Verified;     17000
+275 ;     A ;    B ;    Source Verified;     20000
+276 ;     A ;    C ;       Not Verified;     15000
+277 ;     A ;    C ;           Verified;     24250
+278 ;     A ;    D ;       Not Verified;     12000
+279 ;     A ;    D ;           Verified;     24000
+280 ;     A ;    C ;           Verified;     20000
+281 ;     A ;    C ;    Source Verified;      8000
+282 ;     A ;    B ;    Source Verified;     24000
+283 ;     A ;    C ;           Verified;     14500
+284 ;     A ;    D ;       Not Verified;     21300
+285 ;     A ;    C ;       Not Verified;     19200
+286 ;     A ;    C ;    Source Verified;     15000
+287 ;     A ;    B ;    Source Verified;      9600
+288 ;     A ;    C ;    Source Verified;      3200
+289 ;     A ;    B ;           Verified;     14100
+290 ;     A ;    B ;    Source Verified;     20000
+291 ;     A ;    D ;    Source Verified;     18000
+292 ;     A ;    C ;    Source Verified;     19200
+293 ;     A ;    C ;           Verified;     35000
+294 ;     A ;    C ;       Not Verified;     14000
+295 ;     A ;    C ;    Source Verified;     16000
+296 ;     A ;    B ;    Source Verified;     23000
+297 ;     A ;    E ;           Verified;     12000
+298 ;     A ;    C ;           Verified;     25000
+299 ;     A ;    B ;           Verified;     10000
+300 ;     A ;    A ;    Source Verified;      9000
+301 ;     A ;    C ;       Not Verified;      4800
+302 ;     A ;    C ;           Verified;     35000
+303 ;     A ;    A ;    Source Verified;     15050
+304 ;     A ;    B ;       Not Verified;      8000
+305 ;     A ;    B ;       Not Verified;      6000
+306 ;     A ;    C ;           Verified;     14875
+307 ;     A ;    D ;           Verified;     30000
+308 ;     A ;    D ;           Verified;     23075
+309 ;     A ;    D ;           Verified;     19500
+310 ;     A ;    E ;           Verified;     13700
+311 ;     A ;    D ;           Verified;      3500
+312 ;     A ;    B ;       Not Verified;      8800
+313 ;     A ;    C ;       Not Verified;      8375
+314 ;     A ;    C ;    Source Verified;     25000
+315 ;     A ;    B ;       Not Verified;      5000
+316 ;     A ;    C ;       Not Verified;     21000
+317 ;     A ;    B ;    Source Verified;      5000
+318 ;     A ;    A ;           Verified;     22000
+319 ;     A ;    C ;    Source Verified;     33425
+320 ;     A ;    C ;    Source Verified;     12000
+321 ;     A ;    C ;           Verified;     35000
+322 ;     A ;    B ;    Source Verified;      5000
+323 ;     A ;    C ;       Not Verified;      4350
+324 ;     A ;    B ;    Source Verified;      7700
+325 ;     A ;    C ;    Source Verified;      6000
+326 ;     A ;    C ;           Verified;      4000
+327 ;     A ;    C ;    Source Verified;     15000
+328 ;     A ;    C ;           Verified;      8000
+329 ;     A ;    C ;    Source Verified;      6000
+330 ;     A ;    C ;    Source Verified;      5000
+331 ;     A ;    A ;    Source Verified;     30000
+332 ;     A ;    B ;       Not Verified;      6000
+333 ;     A ;    B ;    Source Verified;     24500
+334 ;     A ;    C ;       Not Verified;      9000
+335 ;     A ;    C ;           Verified;     23000
+336 ;     A ;    C ;       Not Verified;     15000
+337 ;     A ;    B ;       Not Verified;      2500
+338 ;     A ;    C ;       Not Verified;      1000
+339 ;     A ;    A ;       Not Verified;      7000
+340 ;     A ;    D ;    Source Verified;     15000
+341 ;     A ;    C ;       Not Verified;     16000
+342 ;     A ;    D ;           Verified;     22950
+343 ;     A ;    B ;    Source Verified;     23000
+344 ;     A ;    A ;    Source Verified;     13600
+345 ;     A ;    B ;       Not Verified;     21000
+346 ;     A ;    D ;           Verified;     35000
+347 ;     A ;    C ;           Verified;      5000
+348 ;     A ;    A ;       Not Verified;      8300
+349 ;     A ;    F ;           Verified;     12000
+350 ;     A ;    B ;    Source Verified;     28000
+351 ;     A ;    C ;           Verified;     22000
+352 ;     A ;    B ;       Not Verified;     10000
+353 ;     A ;    B ;       Not Verified;     14100
+354 ;     A ;    D ;       Not Verified;      5550
+355 ;     A ;    C ;           Verified;     24825
+356 ;     A ;    A ;    Source Verified;      8500
+357 ;     A ;    C ;       Not Verified;     14000
+358 ;     A ;    E ;           Verified;     10800
+359 ;     A ;    B ;    Source Verified;     14100
+360 ;     A ;    B ;           Verified;     12000
+361 ;     A ;    A ;           Verified;     14000
+362 ;     A ;    B ;    Source Verified;     22500
+363 ;     A ;    B ;    Source Verified;      6500
+364 ;     A ;    A ;       Not Verified;     12000
+365 ;     A ;    C ;    Source Verified;     21600
+366 ;     A ;    D ;    Source Verified;     30000
+367 ;     A ;    B ;       Not Verified;     15000
+368 ;     A ;    D ;       Not Verified;     10000
+369 ;     A ;    C ;       Not Verified;     15500
+370 ;     A ;    A ;       Not Verified;      2700
+371 ;     A ;    C ;       Not Verified;     10000
+372 ;     A ;    A ;    Source Verified;      5000
+373 ;     A ;    B ;    Source Verified;     21000
+374 ;     A ;    C ;           Verified;     13200
+375 ;     A ;    C ;    Source Verified;      6000
+376 ;     A ;    F ;           Verified;     35000
+377 ;     A ;    A ;       Not Verified;     10000
+378 ;     A ;    C ;       Not Verified;     12000
+379 ;     A ;    C ;    Source Verified;     30000
+380 ;     A ;    G ;           Verified;     26500
+381 ;     A ;    C ;       Not Verified;      2500
+382 ;     A ;    C ;    Source Verified;     10000
+383 ;     A ;    D ;           Verified;     21125
+384 ;     A ;    A ;       Not Verified;     15000
+385 ;     A ;    E ;           Verified;     35000
+386 ;     A ;    C ;           Verified;     28000
+387 ;     A ;    C ;       Not Verified;     18000
+388 ;     A ;    B ;       Not Verified;     18000
+389 ;     A ;    A ;    Source Verified;     13000
+390 ;     A ;    B ;           Verified;     16000
+391 ;     A ;    D ;           Verified;      3500
+392 ;     A ;    D ;    Source Verified;     18000
+393 ;     A ;    B ;    Source Verified;      9600
+394 ;     A ;    C ;           Verified;     30000
+395 ;     A ;    D ;    Source Verified;     10125
+396 ;     A ;    C ;       Not Verified;      9850
+397 ;     A ;    D ;           Verified;      6550
+398 ;     A ;    C ;       Not Verified;     12000
+399 ;     A ;    C ;           Verified;     22300
+400 ;     A ;    B ;           Verified;      7000
+401 ;     A ;    B ;       Not Verified;     16800
+402 ;     A ;    C ;           Verified;     12000
+403 ;     A ;    B ;           Verified;      6000
+404 ;     A ;    D ;    Source Verified;     13250
+405 ;     A ;    B ;           Verified;     35000
+406 ;     A ;    F ;           Verified;     20000
+407 ;     A ;    B ;    Source Verified;      8000
+408 ;     A ;    A ;       Not Verified;     10000
+409 ;     A ;    D ;       Not Verified;     20000
+410 ;     A ;    A ;           Verified;     25000
+411 ;     A ;    B ;           Verified;     11000
+412 ;     A ;    A ;       Not Verified;     18000
+413 ;     A ;    C ;           Verified;     10000
+414 ;     A ;    E ;    Source Verified;     20400
+415 ;     A ;    A ;           Verified;      5500
+416 ;     A ;    D ;           Verified;      3000
+417 ;     A ;    D ;           Verified;      6900
+418 ;     A ;    B ;       Not Verified;     18000
+419 ;     A ;    E ;       Not Verified;     12500
+420 ;     A ;    E ;    Source Verified;      4300
+421 ;     A ;    E ;    Source Verified;     35000
+422 ;     A ;    A ;       Not Verified;     10000
+423 ;     A ;    A ;           Verified;     35000
+424 ;     A ;    C ;    Source Verified;     15650
+425 ;     A ;    B ;       Not Verified;     12000
+426 ;     A ;    B ;       Not Verified;      5000
+427 ;     A ;    C ;           Verified;     30000
+428 ;     A ;    A ;           Verified;     20000
+429 ;     A ;    D ;           Verified;     29975
+430 ;     A ;    B ;    Source Verified;     12000
+431 ;     A ;    A ;           Verified;     24000
+432 ;     A ;    E ;       Not Verified;     12175
+433 ;     A ;    B ;    Source Verified;     10000
+434 ;     A ;    C ;           Verified;      8000
+435 ;     A ;    A ;           Verified;     26100
+436 ;     A ;    D ;    Source Verified;     24000
+437 ;     A ;    F ;    Source Verified;     20000
+438 ;     A ;    D ;    Source Verified;     17000
+439 ;     A ;    D ;    Source Verified;      7775
+440 ;     A ;    E ;    Source Verified;     26400
+441 ;     A ;    B ;       Not Verified;      2000
+442 ;     A ;    A ;       Not Verified;      7800
+443 ;     A ;    B ;    Source Verified;     22500
+444 ;     A ;    C ;    Source Verified;     32000
+445 ;     A ;    A ;       Not Verified;      4000
+446 ;     A ;    B ;           Verified;      5950
+447 ;     A ;    C ;    Source Verified;      9600
+448 ;     A ;    A ;           Verified;     27650
+449 ;     A ;    C ;       Not Verified;     10500
+450 ;     A ;    B ;       Not Verified;     10500
+451 ;     A ;    C ;           Verified;     35000
+452 ;     A ;    B ;           Verified;      5000
+453 ;     A ;    A ;       Not Verified;     15000
+454 ;     A ;    C ;       Not Verified;     12000
+455 ;     A ;    B ;           Verified;      3500
+456 ;     A ;    B ;       Not Verified;      6000
+457 ;     A ;    A ;    Source Verified;     25000
+458 ;     A ;    C ;    Source Verified;      7600
+459 ;     A ;    C ;    Source Verified;     25000
+460 ;     A ;    G ;           Verified;     15100
+461 ;     A ;    B ;    Source Verified;     15000
+462 ;     A ;    C ;    Source Verified;      6000
+463 ;     A ;    C ;       Not Verified;     10000
+464 ;     A ;    D ;           Verified;     35000
+465 ;     A ;    A ;    Source Verified;     14400
+466 ;     A ;    A ;           Verified;     16000
+467 ;     A ;    B ;       Not Verified;      3200
+468 ;     A ;    B ;       Not Verified;     15000
+469 ;     A ;    E ;       Not Verified;     10000
+470 ;     A ;    B ;       Not Verified;     11550
+471 ;     A ;    B ;    Source Verified;     18000
+472 ;     A ;    B ;           Verified;     16000
+473 ;     A ;    A ;    Source Verified;      5500
+474 ;     A ;    B ;    Source Verified;      5000
+475 ;     A ;    C ;    Source Verified;     12000
+476 ;     A ;    A ;       Not Verified;     16000
+477 ;     A ;    E ;           Verified;     24650
+478 ;     A ;    A ;    Source Verified;     20000
+479 ;     A ;    B ;           Verified;      6000
+480 ;     A ;    B ;           Verified;     26075
+481 ;     A ;    C ;    Source Verified;      2500
+482 ;     A ;    C ;    Source Verified;      5000
+483 ;     A ;    C ;           Verified;     20625
+484 ;     A ;    A ;       Not Verified;     27000
+485 ;     A ;    B ;    Source Verified;     14525
+486 ;     A ;    C ;    Source Verified;     24000
+487 ;     A ;    C ;    Source Verified;     12000
+488 ;     A ;    A ;       Not Verified;      7450
+489 ;     A ;    B ;    Source Verified;      3000
+490 ;     A ;    D ;       Not Verified;      9000
+491 ;     A ;    C ;    Source Verified;     35000
+492 ;     A ;    B ;           Verified;      5375
+493 ;     A ;    D ;       Not Verified;      9000
+494 ;     A ;    A ;    Source Verified;      9000
+495 ;     A ;    C ;    Source Verified;      7000
+496 ;     A ;    B ;    Source Verified;     27200
+497 ;     A ;    C ;           Verified;     16000
+498 ;     A ;    B ;           Verified;      5000
+499 ;     A ;    B ;       Not Verified;      5000
+500 ;     A ;    D ;    Source Verified;     18700
+501 ;     B ;    C ;    Source Verified;     17000
+502 ;     B ;    D ;    Source Verified;     16800
+503 ;     B ;    E ;    Source Verified;     20125
+504 ;     B ;    B ;       Not Verified;     15000
+505 ;     B ;    D ;           Verified;      5000
+506 ;     B ;    A ;       Not Verified;     15000
+507 ;     B ;    F ;           Verified;     33000
+508 ;     B ;    C ;       Not Verified;     12000
+509 ;     B ;    A ;       Not Verified;      3600
+510 ;     B ;    C ;    Source Verified;     17000
+511 ;     B ;    D ;    Source Verified;     10225
+512 ;     B ;    F ;           Verified;     28000
+513 ;     B ;    C ;           Verified;      3500
+514 ;     B ;    B ;       Not Verified;     21000
+515 ;     B ;    C ;       Not Verified;      2000
+516 ;     B ;    B ;       Not Verified;      4000
+517 ;     B ;    B ;    Source Verified;     16000
+518 ;     B ;    A ;       Not Verified;      8000
+519 ;     B ;    D ;           Verified;     15000
+520 ;     B ;    B ;       Not Verified;      6000
+521 ;     B ;    B ;       Not Verified;     18000
+522 ;     B ;    C ;       Not Verified;     12000
+523 ;     B ;    C ;           Verified;     18400
+524 ;     B ;    D ;           Verified;      6000
+525 ;     B ;    B ;           Verified;     18000
+526 ;     B ;    D ;           Verified;      9850
+527 ;     B ;    D ;       Not Verified;     12000
+528 ;     B ;    A ;           Verified;      9000
+529 ;     B ;    B ;       Not Verified;      5500
+530 ;     B ;    D ;    Source Verified;     12000
+531 ;     B ;    E ;           Verified;     30000
+532 ;     B ;    C ;       Not Verified;      2500
+533 ;     B ;    C ;       Not Verified;     24000
+534 ;     B ;    C ;           Verified;     12000
+535 ;     B ;    C ;           Verified;     24000
+536 ;     B ;    C ;    Source Verified;      8725
+537 ;     B ;    D ;    Source Verified;     10550
+538 ;     B ;    D ;           Verified;     30000
+539 ;     B ;    A ;       Not Verified;     22000
+540 ;     B ;    B ;       Not Verified;     12000
+541 ;     B ;    C ;       Not Verified;      1500
+542 ;     B ;    C ;       Not Verified;     11200
+543 ;     B ;    C ;           Verified;      9500
+544 ;     B ;    C ;           Verified;     30000
+545 ;     B ;    B ;       Not Verified;     12000
+546 ;     B ;    C ;    Source Verified;     18000
+547 ;     B ;    B ;       Not Verified;      5000
+548 ;     B ;    B ;       Not Verified;     10000
+549 ;     B ;    B ;           Verified;     14800
+550 ;     B ;    D ;           Verified;      9600
+551 ;     B ;    B ;           Verified;     20000
+552 ;     B ;    B ;    Source Verified;      5000
+553 ;     B ;    B ;       Not Verified;      5000
+554 ;     B ;    D ;           Verified;     23000
+555 ;     B ;    E ;           Verified;     26225
+556 ;     B ;    A ;       Not Verified;     12000
+557 ;     B ;    E ;    Source Verified;     20000
+558 ;     B ;    B ;           Verified;      5000
+559 ;     B ;    D ;    Source Verified;     10000
+560 ;     B ;    B ;       Not Verified;     25000
+561 ;     B ;    B ;    Source Verified;     24000
+562 ;     B ;    C ;    Source Verified;     30000
+563 ;     B ;    C ;       Not Verified;      4800
+564 ;     B ;    B ;       Not Verified;     10000
+565 ;     B ;    C ;           Verified;      8000
+566 ;     B ;    C ;           Verified;     35000
+567 ;     B ;    C ;       Not Verified;     12000
+568 ;     B ;    D ;           Verified;      8200
+569 ;     B ;    C ;           Verified;     32625
+570 ;     B ;    D ;       Not Verified;      8000
+571 ;     B ;    E ;           Verified;     29975
+572 ;     B ;    C ;           Verified;     24850
+573 ;     B ;    A ;           Verified;      7300
+574 ;     B ;    A ;    Source Verified;     13000
+575 ;     B ;    A ;    Source Verified;     28000
+576 ;     B ;    C ;    Source Verified;     20000
+577 ;     B ;    C ;    Source Verified;     12000
+578 ;     B ;    F ;    Source Verified;     35000
+579 ;     B ;    B ;           Verified;      6725
+580 ;     B ;    A ;       Not Verified;      7000
+581 ;     B ;    B ;           Verified;      8000
+582 ;     B ;    C ;       Not Verified;     16000
+583 ;     B ;    D ;           Verified;     23200
+584 ;     B ;    A ;       Not Verified;     18000
+585 ;     B ;    D ;    Source Verified;      8000
+586 ;     B ;    A ;       Not Verified;      8000
+587 ;     B ;    A ;    Source Verified;      7200
+588 ;     B ;    G ;           Verified;      4900
+589 ;     B ;    A ;           Verified;     20500
+590 ;     B ;    E ;           Verified;     35000
+591 ;     B ;    B ;    Source Verified;      6600
+592 ;     B ;    C ;       Not Verified;     15000
+593 ;     B ;    C ;    Source Verified;     15000
+594 ;     B ;    B ;    Source Verified;      5500
+595 ;     B ;    F ;           Verified;     12000
+596 ;     B ;    B ;           Verified;      3000
+597 ;     B ;    C ;    Source Verified;     10400
+598 ;     B ;    C ;    Source Verified;     35000
+599 ;     B ;    G ;    Source Verified;     13250
+600 ;     B ;    C ;           Verified;     30000
+601 ;     B ;    D ;           Verified;     18000
+602 ;     B ;    C ;       Not Verified;     16000
+603 ;     B ;    C ;    Source Verified;      4000
+604 ;     B ;    C ;           Verified;      3600
+605 ;     B ;    A ;    Source Verified;      9000
+606 ;     B ;    C ;       Not Verified;      9150
+607 ;     B ;    C ;       Not Verified;      6500
+608 ;     B ;    A ;           Verified;     24000
+609 ;     B ;    A ;       Not Verified;     12000
+610 ;     B ;    B ;           Verified;     20000
+611 ;     B ;    D ;       Not Verified;     10000
+612 ;     B ;    B ;    Source Verified;     16000
+613 ;     B ;    B ;    Source Verified;     12000
+614 ;     B ;    A ;    Source Verified;      7200
+615 ;     B ;    B ;       Not Verified;     14000
+616 ;     B ;    B ;    Source Verified;     10000
+617 ;     B ;    A ;    Source Verified;     20000
+618 ;     B ;    A ;       Not Verified;     27000
+619 ;     B ;    B ;    Source Verified;     20000
+620 ;     B ;    C ;       Not Verified;     14400
+621 ;     B ;    A ;    Source Verified;     24175
+622 ;     B ;    A ;    Source Verified;      3600
+623 ;     B ;    B ;           Verified;      4200
+624 ;     B ;    B ;       Not Verified;     10000
+625 ;     B ;    C ;    Source Verified;     35000
+626 ;     B ;    C ;       Not Verified;     18025
+627 ;     B ;    A ;    Source Verified;     15000
+628 ;     B ;    B ;           Verified;     17400
+629 ;     B ;    A ;    Source Verified;     10000
+630 ;     B ;    E ;           Verified;     18975
+631 ;     B ;    C ;    Source Verified;      8000
+632 ;     B ;    A ;    Source Verified;     12000
+633 ;     B ;    B ;       Not Verified;     18600
+634 ;     B ;    D ;    Source Verified;      9100
+635 ;     B ;    D ;       Not Verified;     12000
+636 ;     B ;    A ;    Source Verified;     24000
+637 ;     B ;    C ;           Verified;     20000
+638 ;     B ;    D ;       Not Verified;     12000
+639 ;     B ;    A ;    Source Verified;     35000
+640 ;     B ;    C ;    Source Verified;     20000
+641 ;     B ;    A ;           Verified;     20000
+642 ;     B ;    C ;    Source Verified;     29400
+643 ;     B ;    C ;           Verified;     12000
+644 ;     B ;    B ;           Verified;      7200
+645 ;     B ;    G ;           Verified;     30000
+646 ;     B ;    B ;    Source Verified;     22000
+647 ;     B ;    C ;           Verified;      9325
+648 ;     B ;    B ;    Source Verified;     12000
+649 ;     B ;    B ;           Verified;     17000
+650 ;     B ;    A ;    Source Verified;     17625
+651 ;     B ;    C ;       Not Verified;      7000
+652 ;     B ;    C ;           Verified;      6000
+653 ;     B ;    C ;    Source Verified;     10000
+654 ;     B ;    D ;       Not Verified;      2500
+655 ;     B ;    E ;           Verified;     32000
+656 ;     B ;    C ;           Verified;      9500
+657 ;     B ;    A ;       Not Verified;     18000
+658 ;     B ;    C ;           Verified;     12000
+659 ;     B ;    B ;    Source Verified;     34000
+660 ;     B ;    B ;    Source Verified;     28000
+661 ;     B ;    A ;    Source Verified;     25000
+662 ;     B ;    F ;    Source Verified;     20000
+663 ;     B ;    D ;       Not Verified;      2850
+664 ;     B ;    B ;       Not Verified;      2750
+665 ;     B ;    B ;           Verified;      1000
+666 ;     B ;    C ;    Source Verified;     10000
+667 ;     B ;    A ;       Not Verified;      5000
+668 ;     B ;    C ;           Verified;     16425
+669 ;     B ;    C ;    Source Verified;     15000
+670 ;     B ;    B ;           Verified;     10000
+671 ;     B ;    D ;       Not Verified;     22800
+672 ;     B ;    C ;       Not Verified;      5000
+673 ;     B ;    C ;    Source Verified;     35000
+674 ;     B ;    C ;           Verified;      4125
+675 ;     B ;    C ;       Not Verified;     11000
+676 ;     B ;    D ;           Verified;     20000
+677 ;     B ;    C ;       Not Verified;     15000
+678 ;     B ;    D ;       Not Verified;      1675
+679 ;     B ;    A ;           Verified;     35000
+680 ;     B ;    D ;    Source Verified;      5500
+681 ;     B ;    C ;           Verified;     15000
+682 ;     B ;    A ;    Source Verified;     17000
+683 ;     B ;    D ;           Verified;     18000
+684 ;     B ;    C ;       Not Verified;      6000
+685 ;     B ;    D ;    Source Verified;     12000
+686 ;     B ;    C ;    Source Verified;     16000
+687 ;     B ;    D ;    Source Verified;      4575
+688 ;     B ;    B ;       Not Verified;      3000
+689 ;     B ;    C ;           Verified;      9125
+690 ;     B ;    B ;       Not Verified;     11500
+691 ;     B ;    B ;           Verified;     32500
+692 ;     B ;    B ;           Verified;      5000
+693 ;     B ;    C ;       Not Verified;      8000
+694 ;     B ;    C ;       Not Verified;     17350
+695 ;     B ;    D ;       Not Verified;     12800
+696 ;     B ;    B ;           Verified;      7000
+697 ;     B ;    A ;    Source Verified;     24000
+698 ;     B ;    C ;    Source Verified;      8000
+699 ;     B ;    D ;    Source Verified;     16625
+700 ;     B ;    D ;    Source Verified;      8000
+701 ;     B ;    B ;       Not Verified;      3000
+702 ;     B ;    B ;       Not Verified;     10000
+703 ;     B ;    B ;    Source Verified;     25000
+704 ;     B ;    C ;           Verified;     12000
+705 ;     B ;    B ;       Not Verified;      7600
+706 ;     B ;    A ;       Not Verified;     28000
+707 ;     B ;    C ;           Verified;     30000
+708 ;     B ;    C ;    Source Verified;      2400
+709 ;     B ;    C ;           Verified;     10000
+710 ;     B ;    A ;    Source Verified;     13000
+711 ;     B ;    B ;       Not Verified;     12000
+712 ;     B ;    C ;    Source Verified;     15100
+713 ;     B ;    D ;           Verified;     34625
+714 ;     B ;    C ;           Verified;     18000
+715 ;     B ;    B ;       Not Verified;     11100
+716 ;     B ;    D ;    Source Verified;     20000
+717 ;     B ;    C ;           Verified;     24000
+718 ;     B ;    D ;    Source Verified;     24000
+719 ;     B ;    B ;           Verified;      8500
+720 ;     B ;    C ;           Verified;     15000
+721 ;     B ;    B ;       Not Verified;      4275
+722 ;     B ;    C ;           Verified;      5000
+723 ;     B ;    C ;    Source Verified;     16000
+724 ;     B ;    B ;    Source Verified;     16625
+725 ;     B ;    B ;           Verified;      5000
+726 ;     B ;    C ;    Source Verified;     14400
+727 ;     B ;    C ;           Verified;      5000
+728 ;     B ;    D ;    Source Verified;     12600
+729 ;     B ;    E ;    Source Verified;     15250
+730 ;     B ;    B ;           Verified;     20000
+731 ;     B ;    A ;           Verified;     15000
+732 ;     B ;    A ;       Not Verified;     10000
+733 ;     B ;    D ;       Not Verified;      4300
+734 ;     B ;    B ;    Source Verified;     22000
+735 ;     B ;    C ;           Verified;      3500
+736 ;     B ;    D ;    Source Verified;     10500
+737 ;     B ;    B ;    Source Verified;      8000
+738 ;     B ;    C ;    Source Verified;      9850
+739 ;     B ;    B ;       Not Verified;      9000
+740 ;     B ;    A ;       Not Verified;      8000
+741 ;     B ;    D ;       Not Verified;     15000
+742 ;     B ;    A ;           Verified;      5000
+743 ;     B ;    G ;           Verified;     33500
+744 ;     B ;    E ;    Source Verified;      4075
+745 ;     B ;    B ;           Verified;     10500
+746 ;     B ;    C ;    Source Verified;     10000
+747 ;     B ;    C ;       Not Verified;     18000
+748 ;     B ;    B ;    Source Verified;      5600
+749 ;     B ;    C ;       Not Verified;     12000
+750 ;     B ;    C ;           Verified;     30000
+751 ;     B ;    B ;    Source Verified;     16000
+752 ;     B ;    A ;       Not Verified;     19200
+753 ;     B ;    B ;       Not Verified;     13000
+754 ;     B ;    D ;    Source Verified;     25000
+755 ;     B ;    B ;       Not Verified;     19375
+756 ;     B ;    C ;           Verified;      2300
+757 ;     B ;    F ;       Not Verified;      8000
+758 ;     B ;    C ;           Verified;     21000
+759 ;     B ;    E ;    Source Verified;     12000
+760 ;     B ;    B ;    Source Verified;     14000
+761 ;     B ;    D ;           Verified;     30075
+762 ;     B ;    C ;    Source Verified;     21000
+763 ;     B ;    A ;       Not Verified;     19200
+764 ;     B ;    E ;           Verified;      6000
+765 ;     B ;    A ;    Source Verified;     25000
+766 ;     B ;    C ;    Source Verified;     16000
+767 ;     B ;    B ;       Not Verified;     16800
+768 ;     B ;    D ;           Verified;     15000
+769 ;     B ;    E ;           Verified;     25000
+770 ;     B ;    A ;       Not Verified;      4125
+771 ;     B ;    D ;           Verified;      5000
+772 ;     B ;    A ;       Not Verified;     15200
+773 ;     B ;    B ;    Source Verified;      4000
+774 ;     B ;    C ;       Not Verified;     16000
+775 ;     B ;    B ;       Not Verified;     13125
+776 ;     B ;    D ;           Verified;      5375
+777 ;     B ;    C ;       Not Verified;     12175
+778 ;     B ;    A ;           Verified;      4500
+779 ;     B ;    D ;       Not Verified;      8000
+780 ;     B ;    B ;           Verified;     30000
+781 ;     B ;    C ;       Not Verified;     15000
+782 ;     B ;    B ;           Verified;     21000
+783 ;     B ;    C ;    Source Verified;     10400
+784 ;     B ;    C ;           Verified;     13000
+785 ;     B ;    B ;       Not Verified;     15000
+786 ;     B ;    F ;       Not Verified;     19650
+787 ;     B ;    A ;           Verified;     20000
+788 ;     B ;    C ;           Verified;     16000
+789 ;     B ;    D ;    Source Verified;     26400
+790 ;     B ;    C ;           Verified;     33300
+791 ;     B ;    C ;       Not Verified;     11375
+792 ;     B ;    C ;           Verified;      8000
+793 ;     B ;    B ;       Not Verified;     25000
+794 ;     B ;    C ;           Verified;      1200
+795 ;     B ;    D ;           Verified;     27000
+796 ;     B ;    A ;       Not Verified;     16000
+797 ;     B ;    E ;    Source Verified;     12475
+798 ;     B ;    B ;       Not Verified;     14000
+799 ;     B ;    A ;       Not Verified;     11200
+800 ;     B ;    C ;       Not Verified;       600
+801 ;     B ;    A ;           Verified;     24000
+802 ;     B ;    C ;           Verified;      6000
+803 ;     B ;    D ;           Verified;     24000
+804 ;     B ;    C ;           Verified;     35000
+805 ;     B ;    D ;    Source Verified;     26400
+806 ;     B ;    A ;       Not Verified;     10000
+807 ;     B ;    B ;    Source Verified;      8500
+808 ;     B ;    D ;    Source Verified;     23300
+809 ;     B ;    B ;    Source Verified;     20000
+810 ;     B ;    C ;    Source Verified;     12375
+811 ;     B ;    C ;    Source Verified;     12000
+812 ;     B ;    A ;    Source Verified;      9000
+813 ;     B ;    B ;           Verified;      7000
+814 ;     B ;    D ;           Verified;     16000
+815 ;     B ;    C ;    Source Verified;     21000
+816 ;     B ;    B ;    Source Verified;      7000
+817 ;     B ;    D ;    Source Verified;     16000
+818 ;     B ;    D ;    Source Verified;     30000
+819 ;     B ;    C ;    Source Verified;     17850
+820 ;     B ;    B ;           Verified;     10000
+821 ;     B ;    C ;    Source Verified;     15000
+822 ;     B ;    B ;    Source Verified;     30000
+823 ;     B ;    B ;       Not Verified;      8000
+824 ;     B ;    B ;       Not Verified;     16000
+825 ;     B ;    C ;    Source Verified;      6000
+826 ;     B ;    D ;    Source Verified;     10000
+827 ;     B ;    B ;       Not Verified;     14000
+828 ;     B ;    C ;           Verified;     12000
+829 ;     B ;    C ;    Source Verified;     16400
+830 ;     B ;    D ;           Verified;     30000
+831 ;     B ;    B ;           Verified;     14000
+832 ;     B ;    C ;       Not Verified;      4000
+833 ;     B ;    B ;    Source Verified;     28750
+834 ;     B ;    B ;       Not Verified;     16000
+835 ;     B ;    B ;       Not Verified;     14000
+836 ;     B ;    A ;    Source Verified;     17000
+837 ;     B ;    A ;    Source Verified;     15000
+838 ;     B ;    C ;    Source Verified;     22500
+839 ;     B ;    A ;       Not Verified;     14000
+840 ;     B ;    C ;    Source Verified;     15000
+841 ;     B ;    C ;       Not Verified;     12000
+842 ;     B ;    A ;    Source Verified;     24000
+843 ;     B ;    A ;    Source Verified;     24000
+844 ;     B ;    C ;       Not Verified;     10000
+845 ;     B ;    E ;    Source Verified;     35000
+846 ;     B ;    C ;    Source Verified;     16800
+847 ;     B ;    E ;    Source Verified;     24000
+848 ;     B ;    E ;           Verified;     13475
+849 ;     B ;    B ;       Not Verified;     16800
+850 ;     B ;    C ;       Not Verified;     11775
+851 ;     B ;    B ;    Source Verified;      4000
+852 ;     B ;    B ;    Source Verified;     17725
+853 ;     B ;    B ;    Source Verified;     21000
+854 ;     B ;    D ;    Source Verified;     26000
+855 ;     B ;    B ;    Source Verified;      5400
+856 ;     B ;    C ;       Not Verified;     15000
+857 ;     B ;    F ;           Verified;     13800
+858 ;     B ;    F ;           Verified;     35000
+859 ;     B ;    D ;    Source Verified;     25375
+860 ;     B ;    D ;           Verified;     35000
+861 ;     B ;    E ;       Not Verified;      4300
+862 ;     B ;    A ;    Source Verified;     19000
+863 ;     B ;    B ;           Verified;     19200
+864 ;     B ;    C ;    Source Verified;     28000
+865 ;     B ;    C ;           Verified;     19000
+866 ;     B ;    D ;           Verified;     24375
+867 ;     B ;    D ;       Not Verified;     23100
+868 ;     B ;    C ;           Verified;     15600
+869 ;     B ;    D ;           Verified;     29450
+870 ;     B ;    B ;    Source Verified;     17000
+871 ;     B ;    B ;       Not Verified;      7000
+872 ;     B ;    C ;           Verified;     15000
+873 ;     B ;    C ;    Source Verified;     24000
+874 ;     B ;    C ;    Source Verified;     15425
+875 ;     B ;    D ;           Verified;     30000
+876 ;     B ;    B ;       Not Verified;     10000
+877 ;     B ;    D ;       Not Verified;     13350
+878 ;     B ;    C ;       Not Verified;      6650
+879 ;     B ;    B ;    Source Verified;     35000
+880 ;     B ;    C ;    Source Verified;      6000
+881 ;     B ;    B ;       Not Verified;      9800
+882 ;     B ;    D ;       Not Verified;      7625
+883 ;     B ;    C ;           Verified;      8000
+884 ;     B ;    B ;       Not Verified;     15000
+885 ;     B ;    C ;       Not Verified;     10000
+886 ;     B ;    B ;    Source Verified;     30000
+887 ;     B ;    E ;    Source Verified;     28200
+888 ;     B ;    E ;           Verified;     20000
+889 ;     B ;    D ;           Verified;     20000
+890 ;     B ;    B ;    Source Verified;     16000
+891 ;     B ;    B ;       Not Verified;      3500
+892 ;     B ;    E ;    Source Verified;     27000
+893 ;     B ;    B ;    Source Verified;     21000
+894 ;     B ;    C ;       Not Verified;     18000
+895 ;     B ;    D ;           Verified;     25000
+896 ;     B ;    C ;       Not Verified;     10000
+897 ;     B ;    C ;    Source Verified;      5600
+898 ;     B ;    B ;           Verified;     28000
+899 ;     B ;    F ;           Verified;     15000
+900 ;     B ;    B ;       Not Verified;      7000
+901 ;     B ;    B ;    Source Verified;     15000
+902 ;     B ;    B ;    Source Verified;     10000
+903 ;     B ;    E ;    Source Verified;     11800
+904 ;     B ;    C ;       Not Verified;     14000
+905 ;     B ;    C ;           Verified;     20000
+906 ;     B ;    D ;           Verified;     22875
+907 ;     B ;    E ;    Source Verified;     11175
+908 ;     B ;    D ;    Source Verified;     18350
+909 ;     B ;    E ;    Source Verified;      9450
+910 ;     B ;    D ;    Source Verified;     20000
+911 ;     B ;    D ;           Verified;     29400
+912 ;     B ;    D ;    Source Verified;     30000
+913 ;     B ;    B ;           Verified;     35000
+914 ;     B ;    D ;    Source Verified;     12000
+915 ;     B ;    E ;           Verified;      2000
+916 ;     B ;    C ;    Source Verified;     10000
+917 ;     B ;    D ;    Source Verified;      5000
+918 ;     B ;    D ;           Verified;     20000
+919 ;     B ;    D ;    Source Verified;     10400
+920 ;     B ;    C ;       Not Verified;     17000
+921 ;     B ;    C ;    Source Verified;      3600
+922 ;     B ;    D ;    Source Verified;      2000
+923 ;     B ;    B ;           Verified;     30000
+924 ;     B ;    B ;           Verified;     18000
+925 ;     B ;    A ;       Not Verified;      6000
+926 ;     B ;    A ;    Source Verified;     10000
+927 ;     B ;    D ;           Verified;      3600
+928 ;     B ;    D ;    Source Verified;      1600
+929 ;     B ;    B ;    Source Verified;      8000
+930 ;     B ;    D ;    Source Verified;     25000
+931 ;     B ;    D ;           Verified;     15000
+932 ;     B ;    A ;       Not Verified;      7000
+933 ;     B ;    C ;    Source Verified;     11200
+934 ;     B ;    D ;           Verified;     31825
+935 ;     B ;    B ;           Verified;     20000
+936 ;     B ;    B ;       Not Verified;     18000
+937 ;     B ;    D ;    Source Verified;     21000
+938 ;     B ;    E ;           Verified;     26850
+939 ;     B ;    B ;           Verified;      7500
+940 ;     B ;    B ;    Source Verified;     21000
+941 ;     B ;    A ;       Not Verified;      2500
+942 ;     B ;    C ;           Verified;      7200
+943 ;     B ;    D ;    Source Verified;     24175
+944 ;     B ;    B ;    Source Verified;     20000
+945 ;     B ;    A ;    Source Verified;     35000
+946 ;     B ;    D ;           Verified;      9650
+947 ;     B ;    D ;       Not Verified;     18000
+948 ;     B ;    B ;       Not Verified;      6000
+949 ;     B ;    A ;    Source Verified;     35000
+950 ;     B ;    C ;       Not Verified;      6000
+951 ;     B ;    C ;           Verified;      5000
+952 ;     B ;    C ;           Verified;     25475
+953 ;     B ;    B ;       Not Verified;      5000
+954 ;     B ;    D ;           Verified;      7800
+955 ;     B ;    E ;    Source Verified;     17000
+956 ;     B ;    A ;       Not Verified;      2600
+957 ;     B ;    B ;           Verified;     16800
+958 ;     B ;    B ;    Source Verified;     20000
+959 ;     B ;    D ;       Not Verified;     18000
+960 ;     B ;    C ;    Source Verified;      7200
+961 ;     B ;    B ;       Not Verified;      6000
+962 ;     B ;    C ;       Not Verified;      3500
+963 ;     B ;    C ;           Verified;     10000
+964 ;     B ;    B ;       Not Verified;      3500
+965 ;     B ;    C ;           Verified;      4750
+966 ;     B ;    A ;           Verified;      9000
+967 ;     B ;    E ;    Source Verified;     11000
+968 ;     B ;    C ;    Source Verified;      5950
+969 ;     B ;    C ;    Source Verified;     10000
+970 ;     B ;    D ;    Source Verified;     19675
+971 ;     B ;    A ;           Verified;      8000
+972 ;     B ;    B ;    Source Verified;     19000
+973 ;     B ;    D ;    Source Verified;     35000
+974 ;     B ;    F ;    Source Verified;     28775
+975 ;     B ;    A ;           Verified;     24000
+976 ;     B ;    B ;    Source Verified;      8000
+977 ;     B ;    C ;    Source Verified;     30000
+978 ;     B ;    C ;       Not Verified;     20475
+979 ;     B ;    B ;    Source Verified;      1000
+980 ;     B ;    E ;    Source Verified;     20000
+981 ;     B ;    A ;           Verified;     15000
+982 ;     B ;    B ;       Not Verified;     12000
+983 ;     B ;    C ;       Not Verified;      5000
+984 ;     B ;    E ;    Source Verified;     11500
+985 ;     B ;    B ;    Source Verified;      5225
+986 ;     B ;    D ;           Verified;      3000
+987 ;     B ;    D ;       Not Verified;     20000
+988 ;     B ;    F ;    Source Verified;     10700
+989 ;     B ;    C ;           Verified;     18150
+990 ;     B ;    B ;           Verified;      7900
+991 ;     B ;    D ;    Source Verified;     11675
+992 ;     B ;    B ;           Verified;     20000
+993 ;     B ;    D ;           Verified;      6525
+994 ;     B ;    A ;    Source Verified;     17500
+995 ;     B ;    F ;    Source Verified;     10275
+996 ;     B ;    E ;    Source Verified;     12350
+997 ;     B ;    B ;    Source Verified;     35000
+998 ;     B ;    B ;    Source Verified;      7000
+999 ;     B ;    A ;       Not Verified;      5000
+1000;     B ;    A ;       Not Verified;      5000
